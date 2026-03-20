@@ -1,10 +1,13 @@
-# STEGNOGRAPHY
+# PROJECT TITLE : STEGNOGRAPHY
+# NAME : MOUNIKA D
+# DATE : 17-03-2026
 
-📌 Description
+
+# Description
 
 This project hides a secret file (like .txt or .c) inside a BMP image using LSB (Least Significant Bit) steganography. It can also decode the hidden secret from the image.
 
-⚙️ Features
+# Features
 
 Encode secret file into a BMP image
 
@@ -12,7 +15,7 @@ Decode secret file from a BMP image
 
 Supports text files
 
-🛠️ Technologies
+# Technologies
 
 C Programming
 
@@ -22,7 +25,7 @@ Bitwise operations
 
 Steganography concepts
 
-▶️ How to Run
+# How to Run
 
 Compile the project:
 
@@ -35,7 +38,7 @@ Encode a secret file:
 Decode a secret file:
 
 ./stego -d output.bmp
-📚 Concepts Used
+# Concepts Used
 
 Least Significant Bit (LSB) encoding
 
@@ -45,7 +48,7 @@ Bitwise manipulation
 
 Binary data handling
 
-💡 Notes
+# Notes
 
 Input image must be a .bmp file.
 
